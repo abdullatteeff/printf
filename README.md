@@ -27,3 +27,4 @@ _printf replicates the C standard library printf() function.
 - _printf("This is a number: %d", 98) prints "This is a number: 98"
 
 # AUTHOR
+Tajudeen Lateef Tunde
